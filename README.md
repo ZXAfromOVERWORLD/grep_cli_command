@@ -1,4 +1,4 @@
-#This is a basic CLI project
+# This is a basic CLI project
 
 I made it by copying the example from the rust book.
 
